@@ -1,0 +1,69 @@
+.hed{
+	font-size: 3px;
+}
+.contnt{
+	font-size:8px;
+}
+.product{
+	width: 30px;
+    border-radius: 40px;
+}
+.shopping{
+	font-size: 25px;
+	font-weight: bold;
+	margin-top: 100px;
+	}
+
+@media only screen and (max-width: 600px)
+{
+	.Product{
+		font-weight: bold;
+		
+		font-size: 10px;
+
+	}
+	.Quantity{
+		font-weight: bold;
+		
+		font-size: 10px;
+
+	}
+	.Price{
+		font-weight: bold;
+		
+		font-size: 10px;
+
+	}
+	.Size{
+		font-weight: bold;
+		
+		font-size: 10px;
+
+	}
+	
+	.Delete{
+		font-weight: bold;
+		
+		font-size: 10px;
+	}
+	.Sub{
+		font-weight: bold;
+		
+		font-size: 10px;
+	}
+	.shopping{
+		font-weight: bold;
+		
+		font-size: 20px;
+	}
+	.checkout{
+		font-weight: bold;
+		
+		font-size: 10px;
+	}
+	.product{
+		width: 20px;
+		border-radius: 20px;
+	}
+	
+}
